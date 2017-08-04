@@ -69,5 +69,5 @@ def doRange(f, t):
 #    x_ = 10**x
 #    doRange(x_, x_ + 11)
 
-for x in range(10):
+for x in range(100):
     doPage(random.randint(1, 904625697166532776746648320380374280100293470930272690489102837043110636675))
